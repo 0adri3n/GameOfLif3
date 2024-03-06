@@ -25,6 +25,13 @@ You can edit the size of the world and the amount of generated cells in the Laun
 
 <kbd> <br> Directional arrows <br> </kbd>  --->  Move across the map
 
+## Note
+
+The final project was a full game with a GUI for the launcher, more controls, settings etc
+
+But I decided that I'll do later but I still could upload it !
+
+And please be kind with the performances... I know my algorithm is not optimal and the way I've coded it is really not the best to reach more FPS
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
